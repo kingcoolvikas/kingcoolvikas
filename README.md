@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingcoolvikas" alt="kingcoolvikas" /></a> </p>
 
-- 🌱 I’m currently learning **: Preparing for OSCP 🤐.**
+- 🌱 I’m currently **: Preparing for OSCP 🤐.**
 
-- 👨‍💻 All of my projects are available at [[kingcoolvikas.github.io](https://kingcoolvikas.github.io)]
+- 👨‍💻 All of my projects are available at  [[kingcoolvikas.github.io](https://kingcoolvikas.github.io)]
 
 - 💬 Ask me about **: Cyber Security/Ethical Hacking 😎**
 
-- 📫 How to reach me **: kingcoolvikas@gmail.com**
+- 📫 Reach Me at  **: kingcoolvikas@gmail.com**
 
-- ⚡ Fun fact **: Neymar ❤, Anime ❤, PC Games ❤, Linux ❤**
+- ⚡ About My Hobbies **: Neymar ❤, Anime ❤, PC Games ❤, Linux ❤**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
