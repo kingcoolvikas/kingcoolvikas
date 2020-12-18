@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hello World! I'm Vikas Anand</h1>
 <h3 align="center">Another Noob In Cyber Security World.</h3>
 
@@ -6,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingcoolvikas" alt="kingcoolvikas" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kingcoolvikas" target="blank"><img src="https://img.shields.io/twitter/follow/kingcoolvikas?logo=twitter&style=for-the-badge" alt="kingcoolvikas" /></a> </p>
+- 🌱 I’m currently learning **: Preparing for OSCP 🤐.**
 
-- 🌱 I’m currently **: Preparing for OSCP 🤐.**
+- 👨‍💻 All of my projects are available at [[kingcoolvikas](https://kingcoolvikas.github.io)]([kingcoolvikas](https://kingcoolvikas.github.io))
 
-- 👨‍💻 All of my projects are available at **kingcoolvikas.github.io**
-
-- 💬 Ask me about **: Cyber Security/Ethical Hacking**
+- 💬 Ask me about **: Cyber Security/Ethical Hacking 😎**
 
 - 📫 How to reach me **: kingcoolvikas@gmail.com**
 
