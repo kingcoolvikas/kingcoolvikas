@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/kingcoolvikas" target="blank"><img src="https://img.shields.io/twitter/follow/kingcoolvikas?logo=twitter&style=for-the-badge" alt="kingcoolvikas" /></a> </p>
 
-- 🌱 I’m currently learning **: Preparing for OSCP 🤐.**
+- 🌱 I’m currently **: Preparing for OSCP 🤐.**
 
-- 👨‍💻 All of my projects are available at [: kingcoolvikas.github.io](: kingcoolvikas.github.io)
+- 👨‍💻 All of my projects are available at **kingcoolvikas.github.io**
 
 - 💬 Ask me about **: Cyber Security/Ethical Hacking**
 
