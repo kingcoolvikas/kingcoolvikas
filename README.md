@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **: Preparing for OSCP 🤐.**
 
-- 👨‍💻 All of my projects are available at [[kingcoolvikas](https://kingcoolvikas.github.io)]([kingcoolvikas](https://kingcoolvikas.github.io))
+- 👨‍💻 All of my projects are available at [[kingcoolvikas.github.io](https://kingcoolvikas.github.io)]
 
 - 💬 Ask me about **: Cyber Security/Ethical Hacking 😎**
 
